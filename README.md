@@ -12,4 +12,4 @@
 
 [Google Solitaire](https://retardedreindeer.github.io/google-solitaire/)
 
-[Google Solitaire in Replit](https://replit.com/@Mr-Pepsi/Google-Solitaire?v=1)
+[Google Snake](https://retardedreindeer.github.io/snake/)
