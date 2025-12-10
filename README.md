@@ -16,6 +16,6 @@
 
 ### Unblockers
 
-[Scramjet](https://retardedreindeer.github.io/scramjet/)
+[Scramjet](https://scramjet-jet.vercel.app/)
 
 [Art Class](https://artclassv4-beryl.vercel.app/)
