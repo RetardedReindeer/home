@@ -16,6 +16,4 @@
 
 ### Unblockers
 
-[Art Class](https://retardedreindeer.github.io/artclassv4/)
-
 [Scramjet](https://retardedreindeer.github.io/scramjet/)
